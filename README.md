@@ -1,7 +1,7 @@
-- 👋 Hi, I’m  Manoel Vitor Pine
-- 👀 I’m interested in  tecnologias
+- 👋 Hi, I’m  Manoel Vitor Pinheiro
+- 👀 I’m interested in  programação.
 -                                                     
-- 🌱 I’m currently learning  sobre programação e  criação de conteudos                                                                                                                                  
+- 🌱 I’m currently learning  sobre programação e  criação de conteudos                                                                                                                            
  📫 How to reach me   atrav das redes soci 
 
 <!---
