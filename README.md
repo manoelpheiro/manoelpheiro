@@ -1,7 +1,8 @@
-- 👋 Hi, I’m  Manoel Vitor Pinheiro
-- 👀 I’m interested in  programação.
+- 👋 Olá, tudo bem? Eu sou o professor  Manoel Vitor Pinheiro
+- 👀 Trablhando com   programação.
 -                                                     
-- 🌱 I’m currently learning  sobre programação e  criação de conteudos                                                                                                                            
+- :smiley: Eu estou buscando novas ferramentas sobre programação e  criação de conteúdos e produção de site.
+ Sou professor na rede estadual de ensino e atuo com projetos em dois colégios. Projetos: Pensamento Computacional Colegios: Rio do Meio e Aurelio Buarque
  📫 How to reach me   atrav das redes soci 
 
 <!---
