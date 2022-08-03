@@ -10,7 +10,7 @@
  Sou professor na rede estadual de ensino e atuo com projetos em dois colégios. Projetos: Pensamento Computacional Colegios: Rio do Meio e Aurelio Buarque
  
  
- 📫 How to reach me   atrav das redes soci 
+ 📫 Me encontre em minhas redes sociais @manoelvitorp no Instagram. Manoel Vitor Pinheiro no Facebook.
  
 
 <!---
