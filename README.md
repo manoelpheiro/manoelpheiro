@@ -2,7 +2,7 @@
 
 - 👋 Olá, tudo bem? Eu sou o professor  Manoel Vitor Pinheiro.
 
--:star:Estou trabahan com Pensamento Computacional.
+-:star:Estou buscando apredizado através do Pensamento Computacional.
 
 - :smiley: Eu estou buscando novas ferramentas sobre programação e  criação de conteúdos e produção de site.
 
